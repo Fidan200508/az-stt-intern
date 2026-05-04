@@ -6,3 +6,6 @@ pandas
 librosa
 soundfile
 matplotlib
+tqdm
+librosa
+accelerate
