@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+jiwer
+pandas
+librosa
+soundfile
+matplotlib
